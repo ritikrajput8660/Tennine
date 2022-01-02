@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TenNine</string>
+    <string name="signup">SignUp</string>
+    <string name="logo">Logo</string>
+    <string name="login">LogIn</string>
+    <string name="or">or</string>
+    <string name="continue_with_phone">continue with phone</string>
+    <string name="continue_with_google">continue with google</string>
+    <string name="continue_with_facebook">continue with facebook</string>
+    <string name="choose_account_to_register">choose account to register</string>
+    <string name="or2">Or</string>
+    <string name="already_have_an_account_login">Already have an account! Login</string>
+    <string name="baby">baby</string>
+    <string name="young">young</string>
+    <string name="old">old</string>
+    <string name="whats_your_mobile_number">Whats Your mobile number ?</string>
+    <string name="mobile_number">MOBILE NUMBER</string>
+    <string name="_91">+91</string>
+    <string name="enter_your_number">Enter Your number</string>
+    <string name="genrate_otp">Genrate OTP</string>
+</resources>
